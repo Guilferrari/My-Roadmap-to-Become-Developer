@@ -4,7 +4,7 @@
 
 
 
-|    Status    |   Type          |   Data     | Name                                                      | Tutor                   |
+|    Status    |   Type          |   Date     | Name                                                      |     Company - Autor     |
 |:------------:|:---------------:|:----------:|:---------------------------------------------------------:|:-----------------------:|
 |     Done     |      Course     | 20/02/2017 | [Python Fundamentals]                                     | [4Linux]                |
 |     Done     |  Certification  | 19/03/2017 | [Linux Fundamentals in Cloud]                             | [4Linux]                |
@@ -12,7 +12,7 @@
 |     Done     |      Course     | 30/04/2017 | [Linux Security SysAdmin in Cloud]                        | [4Linux]                | 
 |     Done     |  Certification  | 19/05/2017 | [LPIC - 1 Linux Administrator]                            | [Linux Institute]       |
 |     Done     |  Certification  | 19/05/2017 | [CompTIA Linux+]                                          | [CompTIa]               |
-|     Done     |  Certification  | 11/06/2017 | [Linux Security Servers in Cloud]                         | [4Linux]                |
+|     Done     |      Course     | 11/06/2017 | [Linux Security Servers in Cloud]                         | [4Linux]                |
 |     Done     |  Certification  | 23/06/2017 | [PSM I Professional Scrum Master I]                       | [Scrum.org]             |
 |     Done     |  Certification  | 27/06/2017 | [VCA - Desktop and Mobility]                              | [VMware]                |
 |     Done     |  Certification  | 18/07/2017 | [LFCS - Linux Foundation Certified System Administrator]  | [The Linux Foundation]  |
@@ -35,7 +35,21 @@
 |     Done     |      Course     | 02/09/2018 | [Devops the Complete Kubernetes]                          | [Udemy]                 |
 |     Done     |       Book      | 24/10/2018 | [You Don't Know JS: Up & Going]                           | [Kyle Simpson]          |
 |     Done     |       Book      | 28/10/2018 | [You Don't Know JS: Scope & Closures]                     | [Kyle Simpson]          |
-|    To-Do     |                 |            |                                                           |                         |
+|    To-Do     |       Book      |            | [You Don't Know JS: this & Object Prototypes]             | [Kyle Simpson]          |
+|    To-Do     |       Book      |            | [You Don't Know JS: Types & Grammar]                      | [Kyle Simpson]          |
+|    To-Do     |       Book      |            | [You Don't Know JS: Async & Performance]                  | [Kyle Simpson]          |
+|    To-Do     |       Book      |            | [You Don't Know JS: ES6 & Beyond]                         | [Kyle Simpson]          |
+|    To-Do     |      Course     |            | [ES6 Javascript: The Complete Developer's Guide]          | [Udemy]                 |
+|    To-Do     |      Course     |            | [Modern React with Redux]                                 | [Udemy]                 |
+|    To-Do     |      Course     |            | [Linux Networking And Administration]                     | [The Linux Foundation]  |
+|    To-Do     |      Course     |            | [Responsive Web Design]                                   | [freeCodeCamp]          |
+|    To-Do     |      Course     |            | [Javascript Algorithms And Data Structures]               | [freeCodeCamp]          |
+|    To-Do     |      Course     |            | [Front End Libraries]                                     | [freeCodeCamp]          |
+|    To-Do     |      Course     |            | [Data Visualization]                                      | [freeCodeCamp]          |
+|    To-Do     |      Course     |            | [Apis And Microservices]                                  | [freeCodeCamp]          |
+|    To-Do     |      Course     |            | [Information Security And Quality Assurance]              | [freeCodeCamp]          |
+|              |                 |            |                                                           |                         |
+
 
 
 [//]: # (Reference Name)
@@ -70,6 +84,19 @@
 [You Don't Know JS: Up & Going]: https://www.amazon.com/_/dp/1491924462?tag=oreilly20-20
 [You Don't Know JS: Scope & Closures]: https://www.amazon.com/You-Dont-Know-JS-Closures/dp/1449335586
 
+[ES6 Javascript: The Complete Developer's Guide]: https://www.udemy.com/javascript-es6-tutorial/?couponCode=4MORE1234
+[Modern React with Redux]: https://www.udemy.com/react-redux/?couponCode=4MORE1234
+[You Don't Know JS: this & Object Prototypes]: https://www.amazon.com/gp/product/B00LPUIB9G/ref=series_rw_dp_sw
+[You Don't Know JS: Types & Grammar]: https://www.amazon.com/You-Dont-Know-JS-Grammar/dp/1491904194
+[You Don't Know JS: Async & Performance]: https://www.amazon.com/gp/product/B00TXVCJ7O/ref=series_rw_dp_sw
+[You Don't Know JS: ES6 & Beyond]: https://www.amazon.com/You-Dont-Know-JS-Beyond-ebook/dp/B019HRGOPQ
+[Linux Networking And Administration]: https://training.linuxfoundation.org/training/linux-networking-and-administration/
+[Responsive Web Design]: https://learn.freecodecamp.org/
+[Javascript Algorithms And Data Structures]: https://learn.freecodecamp.org/
+[Front End Libraries]: https://learn.freecodecamp.org/
+[Data Visualization]: https://learn.freecodecamp.org/
+[Apis And Microservices]: https://learn.freecodecamp.org/
+[Information Security And Quality Assurance]: https://learn.freecodecamp.org/
 
 [//]: # (Reference Tutor)
 
@@ -89,6 +116,8 @@
 [MongoDB]: https://www.mongodb.com
 [Data Science Academy]: https://www.datascienceacademy.com.br
 [Kyle Simpson]: https://github.com/getify
+[freeCodeCamp]: https://www.freecodecamp.org/
+
 
 
 
