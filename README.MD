@@ -93,5 +93,9 @@
 
 [//]: # (Status images)
 
-[Finished]: (http://) "Finished"
-[To-Do]: (http://) "To-Do"
+[Finished]: (https://raw.githubusercontent.com/Guilferrari/My-Roadmap-to-Become-Developer/master/img/check.svg) "Finished"
+[To-Do]: (My-Roadmap-to-Become-Developer/img/load1.jpg) "To-Do"
+
+
+
+      
