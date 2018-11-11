@@ -35,7 +35,7 @@
 | ![Finished][Finished] |     Course    | 02/09/2018 | [Devops the Complete Kubernetes]                          | [Udemy]                 |
 | ![Finished][Finished] |      Book     | 24/10/2018 | [You Don't Know JS: Up & Going]                           | [Kyle Simpson]          |
 | ![Finished][Finished] |      Book     | 28/10/2018 | [You Don't Know JS: Scope & Closures]                     | [Kyle Simpson]          |
-|                       |               |            |                                                           |                         |
+| ![To-Do][To-Do]       |               |            |                                                           |                         |
 
 
 [//]: # (Reference Name)
