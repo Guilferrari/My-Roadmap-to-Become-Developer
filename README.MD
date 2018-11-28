@@ -36,12 +36,12 @@
 |   ✔️   |       Book      | 24/10/2018 | [You Don't Know JS: Up & Going]                           | [Kyle Simpson]          |
 |   ✔️   |       Book      | 28/10/2018 | [You Don't Know JS: Scope & Closures]                     | [Kyle Simpson]          |
 |   ✔️   |      Course     | 18/11/2018 | [ES6 Javascript: The Complete Developer's Guide]          | [Udemy]                 |
+|   ✔️   |      Course     | 19/11/2018 | [Linux Networking And Administration]                     | [The Linux Foundation]  |
 |   ◻️   |       Book      |            | [You Don't Know JS: this & Object Prototypes]             | [Kyle Simpson]          |
 |   ◻️   |       Book      |            | [You Don't Know JS: Types & Grammar]                      | [Kyle Simpson]          |
 |   ◻️   |       Book      |            | [You Don't Know JS: Async & Performance]                  | [Kyle Simpson]          |
 |   ◻️   |       Book      |            | [You Don't Know JS: ES6 & Beyond]                         | [Kyle Simpson]          |
 |   ◻️   |      Course     |            | [Modern React with Redux]                                 | [Udemy]                 |
-|   ◻️   |      Course     |            | [Linux Networking And Administration]                     | [The Linux Foundation]  |
 |   ◻️   |      Course     |            | [Responsive Web Design]                                   | [freeCodeCamp]          |
 |   ◻️   |      Course     |            | [Javascript Algorithms And Data Structures]               | [freeCodeCamp]          |
 |   ◻️   |      Course     |            | [Front End Libraries]                                     | [freeCodeCamp]          |
