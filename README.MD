@@ -38,6 +38,7 @@
 |   ✔️   |      Course     | 18/11/2018 | [ES6 Javascript: The Complete Developer's Guide]          | [Udemy]                 |
 |   ✔️   |      Course     | 19/11/2018 | [Linux Networking And Administration]                     | [The Linux Foundation]  |
 |   ✔️   |       Book      | 08/12/2018 | [You Don't Know JS: this & Object Prototypes]             | [Kyle Simpson]          |
+|   ✔️   |      Course     | 13/12/2018 | [Basic Cluster Administration]                            | [MongoDB]               |
 |   ◻️   |       Book      |            | [You Don't Know JS: Types & Grammar]                      | [Kyle Simpson]          |
 |   ◻️   |       Book      |            | [You Don't Know JS: Async & Performance]                  | [Kyle Simpson]          |
 |   ◻️   |       Book      |            | [You Don't Know JS: ES6 & Beyond]                         | [Kyle Simpson]          |
@@ -79,6 +80,7 @@
 [Nanodegree - Data Science I]: https://br.udacity.com/course/python-fundamentos-data-science--nd110
 [Elements of AI]: https://www.elementsofai.com/
 [MongoDB Basics]: https://university.mongodb.com/courses/M001/about
+[Basic Cluster Administration]: https://university.mongodb.com/courses/M103/about
 [Kubernetes Fundamentals]: https://training.linuxfoundation.org/training/kubernetes-fundamentals/
 [Devops the Complete Kubernetes]: https://www.udemy.com/learn-devops-the-complete-kubernetes-course/
 [You Don't Know JS: Up & Going]: https://www.amazon.com/_/dp/1491924462?tag=oreilly20-20
