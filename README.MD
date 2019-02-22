@@ -39,6 +39,7 @@
 |   ✔️   |      Course     | 19/11/2018 | [Linux Networking And Administration]                     | [The Linux Foundation]  |
 |   ✔️   |       Book      | 08/12/2018 | [You Don't Know JS: this & Object Prototypes]             | [Kyle Simpson]          |
 |   ✔️   |      Course     | 13/12/2018 | [Basic Cluster Administration]                            | [MongoDB]               |
+|   ✔️   |      Course     | 22/02/2019 | [Software Testing]                                        | [Udemy]                 |
 |   ◻️   |       Book      |            | [You Don't Know JS: Types & Grammar]                      | [Kyle Simpson]          |
 |   ◻️   |       Book      |            | [You Don't Know JS: Async & Performance]                  | [Kyle Simpson]          |
 |   ◻️   |       Book      |            | [You Don't Know JS: ES6 & Beyond]                         | [Kyle Simpson]          |
@@ -99,6 +100,7 @@
 [Data Visualization]: https://learn.freecodecamp.org/
 [Apis And Microservices]: https://learn.freecodecamp.org/
 [Information Security And Quality Assurance]: https://learn.freecodecamp.org/
+[Software Testing]: https://www.udemy.com/teste-software-completo-testes-automaticos/
 
 [//]: # (Reference Tutor)
 
