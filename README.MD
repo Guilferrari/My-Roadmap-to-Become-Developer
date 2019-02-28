@@ -40,6 +40,7 @@
 |   ✔️   |       Book      | 08/12/2018 | [You Don't Know JS: this & Object Prototypes]             | [Kyle Simpson]          |
 |   ✔️   |      Course     | 13/12/2018 | [Basic Cluster Administration]                            | [MongoDB]               |
 |   ✔️   |      Course     | 22/02/2019 | [Software Testing]                                        | [Udemy]                 |
+|   ✔️   |      Course     | 28/02/2019 | [Programming in Microsoft C# - Exam 70-483]               | [Udemy]                 |
 |   ◻️   |       Book      |            | [You Don't Know JS: Types & Grammar]                      | [Kyle Simpson]          |
 |   ◻️   |       Book      |            | [You Don't Know JS: Async & Performance]                  | [Kyle Simpson]          |
 |   ◻️   |       Book      |            | [You Don't Know JS: ES6 & Beyond]                         | [Kyle Simpson]          |
@@ -101,6 +102,7 @@
 [Apis And Microservices]: https://learn.freecodecamp.org/
 [Information Security And Quality Assurance]: https://learn.freecodecamp.org/
 [Software Testing]: https://www.udemy.com/teste-software-completo-testes-automaticos/
+[Programming in Microsoft C# - Exam 70-483]: https://www.udemy.com/programming-in-microsoft-c-exam-70-483/
 
 [//]: # (Reference Tutor)
 
