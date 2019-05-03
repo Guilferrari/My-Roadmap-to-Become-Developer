@@ -43,6 +43,11 @@
 |   ✔️   |      Course     | 28/02/2019 | [Programming in Microsoft C# - Exam 70-483]               | [Udemy]                 |
 |   ✔️   |      Course     | 10/03/2019 | [C# Basics for Beginners: Learn C# Fundamentals]          | [Udemy]                 |
 |   ✔️   |      Course     | 04/04/2019 | [C# Intermediate: Classes, Interfaces and OOP]            | [Udemy]                 |
+|   ✔️   |      Course     | 03/05/2019 | [C# Advanced Topics: Prepare for Technical Interviews]    | [Udemy]                 |
+|   ◻️   |      Course     |            | [Diploma in Visual C# Programming .NET Visual Studio]     | [Ibat College Dublin]   |
+|   ◻️   |      Course     |            | [Active Directory & Group Policy Lab]                     | [Udemy]                 |
+|   ◻️   |      Course     |            | [Complete C# Masterclass]                                 | [Udemy]                 |
+|   ◻️   |      Course     |            | [The Complete C# Programming Course]                      | [Udemy]                 |
 |   ◻️   |       Book      |            | [You Don't Know JS: Types & Grammar]                      | [Kyle Simpson]          |
 |   ◻️   |       Book      |            | [You Don't Know JS: Async & Performance]                  | [Kyle Simpson]          |
 |   ◻️   |       Book      |            | [You Don't Know JS: ES6 & Beyond]                         | [Kyle Simpson]          |
@@ -107,6 +112,11 @@
 [Programming in Microsoft C# - Exam 70-483]: https://www.udemy.com/programming-in-microsoft-c-exam-70-483/
 [C# Basics for Beginners: Learn C# Fundamentals]: https://www.udemy.com/csharp-tutorial-for-beginners/
 [C# Intermediate: Classes, Interfaces and OOP]: https://www.udemy.com/csharp-intermediate-classes-interfaces-and-oop/
+[C# Advanced Topics: Prepare for Technical Interviews]: https://www.udemy.com/csharp-advanced
+[Complete C# Masterclass]: https://www.udemy.com/complete-csharp-masterclass/
+[The Complete C# Programming Course]: https://www.udemy.com/the-complete-csharp-programming-course/
+[Active Directory & Group Policy Lab]: https://www.udemy.com/active-directory-group-policy-2012/
+[Diploma in Visual C# Programming .NET Visual Studio]: https://www.ibat.ie/courses/programming-course-learn-c-sharp-courses-net-microsoft-visual-studio.html
 
 [//]: # (Reference Tutor)
 
@@ -127,6 +137,7 @@
 [Data Science Academy]: https://www.datascienceacademy.com.br
 [Kyle Simpson]: https://github.com/getify
 [freeCodeCamp]: https://www.freecodecamp.org/
+[Ibat College Dublin]: https://www.ibat.ie
 
 
 
