@@ -44,7 +44,7 @@
 |   ✔️   |      Course     | 10/03/2019 | [C# Basics for Beginners: Learn C# Fundamentals]          | [Udemy]                 |
 |   ✔️   |      Course     | 04/04/2019 | [C# Intermediate: Classes, Interfaces and OOP]            | [Udemy]                 |
 |   ✔️   |      Course     | 03/05/2019 | [C# Advanced Topics: Prepare for Technical Interviews]    | [Udemy]                 |
-|   ◻️   |      Course     |            | [Diploma in Visual C# Programming .NET Visual Studio]     | [Ibat College Dublin]   |
+|   ✔️   |      Course     | 09/05/2019 | [Diploma in Visual C# Programming .NET Visual Studio]     | [Ibat College Dublin]   |
 |   ◻️   |      Course     |            | [Active Directory & Group Policy Lab]                     | [Udemy]                 |
 |   ◻️   |      Course     |            | [Complete C# Masterclass]                                 | [Udemy]                 |
 |   ◻️   |      Course     |            | [The Complete C# Programming Course]                      | [Udemy]                 |
