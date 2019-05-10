@@ -45,6 +45,7 @@
 |   ✔️   |      Course     | 04/04/2019 | [C# Intermediate: Classes, Interfaces and OOP]            | [Udemy]                 |
 |   ✔️   |      Course     | 03/05/2019 | [C# Advanced Topics: Prepare for Technical Interviews]    | [Udemy]                 |
 |   ✔️   |      Course     | 09/05/2019 | [Diploma in Visual C# Programming .NET Visual Studio]     | [Ibat College Dublin]   |
+|   ✔️   |      Course     | 10/05/2019 | [C# Developers: Double Your Coding Speed Visual Studio]   | [Udemy]                 |
 |   ◻️   |      Course     |            | [Active Directory & Group Policy Lab]                     | [Udemy]                 |
 |   ◻️   |      Course     |            | [Complete C# Masterclass]                                 | [Udemy]                 |
 |   ◻️   |      Course     |            | [The Complete C# Programming Course]                      | [Udemy]                 |
@@ -117,6 +118,7 @@
 [The Complete C# Programming Course]: https://www.udemy.com/the-complete-csharp-programming-course/
 [Active Directory & Group Policy Lab]: https://www.udemy.com/active-directory-group-policy-2012/
 [Diploma in Visual C# Programming .NET Visual Studio]: https://www.ibat.ie/courses/programming-course-learn-c-sharp-courses-net-microsoft-visual-studio.html
+[C# Developers: Double Your Coding Speed Visual Studio]: https://www.udemy.com/visual-studio-tips-tricks/
 
 [//]: # (Reference Tutor)
 
