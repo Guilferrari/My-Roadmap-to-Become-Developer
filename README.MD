@@ -46,6 +46,8 @@
 |   ✔️   |      Course     | 03/05/2019 | [C# Advanced Topics: Prepare for Technical Interviews]    | [Udemy]                 |
 |   ✔️   |      Course     | 09/05/2019 | [Diploma in Visual C# Programming .NET Visual Studio]     | [Ibat College Dublin]   |
 |   ✔️   |      Course     | 10/05/2019 | [C# Developers: Double Your Coding Speed Visual Studio]   | [Udemy]                 |
+|   ✔️   |      Course     | 20/05/2019 | [Google Cloud Platform Fundamentals: Core Infrastructure] | [Coursera]              |
+|   ◻️   |      Course     |            | [Essential Cloud Infrastructure: Foundation]              | [Coursera]              |
 |   ◻️   |      Course     |            | [Active Directory & Group Policy Lab]                     | [Udemy]                 |
 |   ◻️   |      Course     |            | [Complete C# Masterclass]                                 | [Udemy]                 |
 |   ◻️   |      Course     |            | [The Complete C# Programming Course]                      | [Udemy]                 |
@@ -119,6 +121,7 @@
 [Active Directory & Group Policy Lab]: https://www.udemy.com/active-directory-group-policy-2012/
 [Diploma in Visual C# Programming .NET Visual Studio]: https://www.ibat.ie/courses/programming-course-learn-c-sharp-courses-net-microsoft-visual-studio.html
 [C# Developers: Double Your Coding Speed Visual Studio]: https://www.udemy.com/visual-studio-tips-tricks/
+[Google Cloud Platform Fundamentals: Core Infrastructure]: https://www.coursera.org/learn/gcp-fundamentals/
 
 [//]: # (Reference Tutor)
 
@@ -140,6 +143,7 @@
 [Kyle Simpson]: https://github.com/getify
 [freeCodeCamp]: https://www.freecodecamp.org/
 [Ibat College Dublin]: https://www.ibat.ie
+[Coursera]: https://www.coursera.org
 
 
 
