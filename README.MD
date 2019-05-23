@@ -47,7 +47,7 @@
 |   ✔️   |      Course     | 09/05/2019 | [Diploma in Visual C# Programming .NET Visual Studio]     | [Ibat College Dublin]   |
 |   ✔️   |      Course     | 10/05/2019 | [C# Developers: Double Your Coding Speed Visual Studio]   | [Udemy]                 |
 |   ✔️   |      Course     | 20/05/2019 | [Google Cloud Platform Fundamentals: Core Infrastructure] | [Coursera]              |
-|   ◻️   |      Course     |            | [Essential Cloud Infrastructure: Foundation]              | [Coursera]              |
+|   ✔️   |      Course     | 23/05/2019 | [Essential Cloud Infrastructure: Foundation]              | [Coursera]              |
 |   ◻️   |      Course     |            | [Active Directory & Group Policy Lab]                     | [Udemy]                 |
 |   ◻️   |      Course     |            | [Complete C# Masterclass]                                 | [Udemy]                 |
 |   ◻️   |      Course     |            | [The Complete C# Programming Course]                      | [Udemy]                 |
