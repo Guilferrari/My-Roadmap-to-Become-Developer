@@ -122,6 +122,7 @@
 [Diploma in Visual C# Programming .NET Visual Studio]: https://www.ibat.ie/courses/programming-course-learn-c-sharp-courses-net-microsoft-visual-studio.html
 [C# Developers: Double Your Coding Speed Visual Studio]: https://www.udemy.com/visual-studio-tips-tricks/
 [Google Cloud Platform Fundamentals: Core Infrastructure]: https://www.coursera.org/learn/gcp-fundamentals/
+[Essential Cloud Infrastructure: Foundation]: https://www.coursera.org/learn/gcp-infrastructure-foundation
 
 [//]: # (Reference Tutor)
 
