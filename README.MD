@@ -50,6 +50,8 @@
 |   ✔️   |      Course     | 23/05/2019 | [Essential Cloud Infrastructure: Foundation]              | [Coursera]              |
 |   ✔️   |      Course     | 24/05/2019 | [The Complete ASP.NET MVC 5]                              | [Udemy]                 |
 |   ✔️   |      Course     | 29/05/2019 | [Essential Cloud Infrastructure: Core Services]           | [Coursera]              |
+|   ✔️   |      Course     | 08/06/2019 | [Elastic Cloud Infrastructure Scaling and Automation]     | [Coursera]              |
+|   ◻️   |      Course     |            | [Elastic Cloud Infrastructure: Containers and Services]   | [Coursera]              |
 |   ◻️   |      Course     |            | [Active Directory & Group Policy Lab]                     | [Udemy]                 |
 |   ◻️   |      Course     |            | [Complete C# Masterclass]                                 | [Udemy]                 |
 |   ◻️   |      Course     |            | [The Complete C# Programming Course]                      | [Udemy]                 |
@@ -127,6 +129,10 @@
 [Essential Cloud Infrastructure: Foundation]: https://www.coursera.org/learn/gcp-infrastructure-foundation
 [The Complete ASP.NET MVC 5]: https://www.udemy.com/the-complete-aspnet-mvc-5-course/
 [Essential Cloud Infrastructure: Core Services]: https://www.coursera.org/learn/gcp-infrastructure-core-services/
+[Elastic Cloud Infrastructure Scaling and Automation]: https://www.coursera.org/learn/gcp-infrastructure-scaling-automation/
+[Elastic Cloud Infrastructure: Containers and Services]: https://www.coursera.org/learn/gcp-infrastructure-containers-services/
+
+
 
 [//]: # (Reference Tutor)
 
