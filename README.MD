@@ -54,19 +54,17 @@
 |   ✔️   |      Course     | 08/06/2019 | [Elastic Cloud Infrastructure: Containers and Services]   | [Coursera]              |
 |   ✔️   |      Course     | 14/06/2019 | [Reliable Cloud Infrastructure: Design and Process]       | [Coursera]              |
 |   ✔️   |      Course     | 14/06/2019 | [Architecting with Google Cloud Platform]                 | [Coursera]              |
-|   ◻️   |      Course     |            | [Active Directory & Group Policy Lab]                     | [Udemy]                 |
-|   ◻️   |      Course     |            | [Complete C# Masterclass]                                 | [Udemy]                 |
-|   ◻️   |      Course     |            | [The Complete C# Programming Course]                      | [Udemy]                 |
+|   ◻️   |      Course     |            | [Java Programming Masterclass for Software Developers]    | [Udemy]                 |
+|   ◻️   |      Course     |            | [Java In-Depth: Become a Complete Java Engineer]          | [Udemy]                 |
+|   ◻️   |      Course     |            | [Java SE 11 Developer 1Z0-819 OCP Course - Part 1]        | [Udemy]                 |
+|   ◻️   |      Course     |            | [Java SE 11 Developer 1Z0-819 OCP Course - Part 2]        | [Udemy]                 |
+|   ◻️   |       Book      |            | [OCP Oracle Certified Professional Java SE 11 Developer]  | [Jeanne / Scott]        |
+|   ◻️   |  Certification  |            | [Oracle Certified Professional: Java SE 11 Developer]     | [Oracle]                |
 |   ◻️   |       Book      |            | [You Don't Know JS: Types & Grammar]                      | [Kyle Simpson]          |
 |   ◻️   |       Book      |            | [You Don't Know JS: Async & Performance]                  | [Kyle Simpson]          |
 |   ◻️   |       Book      |            | [You Don't Know JS: ES6 & Beyond]                         | [Kyle Simpson]          |
-|   ◻️   |      Course     |            | [Modern React with Redux]                                 | [Udemy]                 |
-|   ◻️   |      Course     |            | [Responsive Web Design]                                   | [freeCodeCamp]          |
-|   ◻️   |      Course     |            | [Javascript Algorithms And Data Structures]               | [freeCodeCamp]          |
-|   ◻️   |      Course     |            | [Front End Libraries]                                     | [freeCodeCamp]          |
-|   ◻️   |      Course     |            | [Data Visualization]                                      | [freeCodeCamp]          |
-|   ◻️   |      Course     |            | [Apis And Microservices]                                  | [freeCodeCamp]          |
-|   ◻️   |      Course     |            | [Information Security And Quality Assurance]              | [freeCodeCamp]          |
+|   ◻️   |      Course     |            | [Spring & Hibernate for Beginners]                        | [Udemy]                 |
+|   ◻️   |      Course     |            | [Spring Framework 5: Beginner to Guru]                    | [Udemy]                 |
 |   ◻️️   |                 |            |                                                           |                         |
 
 
@@ -103,28 +101,17 @@
 [Devops the Complete Kubernetes]: https://www.udemy.com/learn-devops-the-complete-kubernetes-course/
 [You Don't Know JS: Up & Going]: https://www.amazon.com/_/dp/1491924462?tag=oreilly20-20
 [You Don't Know JS: Scope & Closures]: https://www.amazon.com/You-Dont-Know-JS-Closures/dp/1449335586
-
 [ES6 Javascript: The Complete Developer's Guide]: https://www.udemy.com/javascript-es6-tutorial/?couponCode=4MORE1234
-[Modern React with Redux]: https://www.udemy.com/react-redux/?couponCode=4MORE1234
 [You Don't Know JS: this & Object Prototypes]: https://www.amazon.com/gp/product/B00LPUIB9G/ref=series_rw_dp_sw
 [You Don't Know JS: Types & Grammar]: https://www.amazon.com/You-Dont-Know-JS-Grammar/dp/1491904194
 [You Don't Know JS: Async & Performance]: https://www.amazon.com/gp/product/B00TXVCJ7O/ref=series_rw_dp_sw
 [You Don't Know JS: ES6 & Beyond]: https://www.amazon.com/You-Dont-Know-JS-Beyond-ebook/dp/B019HRGOPQ
 [Linux Networking And Administration]: https://training.linuxfoundation.org/training/linux-networking-and-administration/
-[Responsive Web Design]: https://learn.freecodecamp.org/
-[Javascript Algorithms And Data Structures]: https://learn.freecodecamp.org/
-[Front End Libraries]: https://learn.freecodecamp.org/
-[Data Visualization]: https://learn.freecodecamp.org/
-[Apis And Microservices]: https://learn.freecodecamp.org/
-[Information Security And Quality Assurance]: https://learn.freecodecamp.org/
 [Software Testing]: https://www.udemy.com/teste-software-completo-testes-automaticos/
 [Programming in Microsoft C# - Exam 70-483]: https://www.udemy.com/programming-in-microsoft-c-exam-70-483/
 [C# Basics for Beginners: Learn C# Fundamentals]: https://www.udemy.com/csharp-tutorial-for-beginners/
 [C# Intermediate: Classes, Interfaces and OOP]: https://www.udemy.com/csharp-intermediate-classes-interfaces-and-oop/
 [C# Advanced Topics: Prepare for Technical Interviews]: https://www.udemy.com/csharp-advanced
-[Complete C# Masterclass]: https://www.udemy.com/complete-csharp-masterclass/
-[The Complete C# Programming Course]: https://www.udemy.com/the-complete-csharp-programming-course/
-[Active Directory & Group Policy Lab]: https://www.udemy.com/active-directory-group-policy-2012/
 [Diploma in Visual C# Programming .NET Visual Studio]: https://www.ibat.ie/courses/programming-course-learn-c-sharp-courses-net-microsoft-visual-studio.html
 [C# Developers: Double Your Coding Speed Visual Studio]: https://www.udemy.com/visual-studio-tips-tricks/
 [Google Cloud Platform Fundamentals: Core Infrastructure]: https://www.coursera.org/learn/gcp-fundamentals/
@@ -135,6 +122,15 @@
 [Elastic Cloud Infrastructure: Containers and Services]: https://www.coursera.org/learn/gcp-infrastructure-containers-services/
 [Reliable Cloud Infrastructure: Design and Process]: https://www.coursera.org/learn/cloud-infrastructure-design-process/
 [Architecting with Google Cloud Platform]: https://www.coursera.org/specializations/gcp-architecture
+
+[Java Programming Masterclass for Software Developers]: https://www.udemy.com/course/java-the-complete-java-developer-course/
+[Java In-Depth: Become a Complete Java Engineer]: https://www.udemy.com/course/java-in-depth-become-a-complete-java-engineer/
+[Java SE 11 Developer 1Z0-819 OCP Course - Part 1]: https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-1/
+[Java SE 11 Developer 1Z0-819 OCP Course - Part 2]: https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-2/
+[OCP Oracle Certified Professional Java SE 11 Developer]: https://www.amazon.com/gp/product/1119619130
+[Oracle Certified Professional: Java SE 11 Developer]: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
+[Spring & Hibernate for Beginners]: https://www.udemy.com/course/spring-hibernate-tutorial/
+[Spring Framework 5: Beginner to Guru]: https://www.udemy.com/course/spring-framework-5-beginner-to-guru/
 
 
 
@@ -159,7 +155,7 @@
 [freeCodeCamp]: https://www.freecodecamp.org/
 [Ibat College Dublin]: https://www.ibat.ie
 [Coursera]: https://www.coursera.org
-
+[Oracle]: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 
 
 
