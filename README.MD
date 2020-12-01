@@ -153,6 +153,8 @@
 [Testing Spring Boot: Beginner to Guru]: https://www.udemy.com/course/testing-spring-boot-beginner-to-guru/
 [Spring Security Core: Beginner to Guru]: https://www.udemy.com/course/spring-security-core-beginner-to-guru/
 [Spring Core Advanced - Beyond the Basics]: https://www.udemy.com/course/spring-core-advanced-beyond-the-basics/
+[Pivotal Certified Professional Core Spring 5 Developer]: https://www.amazon.co.uk/Pivotal-Certified-Professional-Spring-Developer-ebook/dp/B082MCRCLM
+[Spring Certified Professional]: https://tanzu.vmware.com/training/certification/spring-professional-certification
 
 
 
