@@ -60,12 +60,25 @@
 |   ◻️   |      Course     |            | [Java SE 11 Developer 1Z0-819 OCP Course - Part 2]        | [Udemy]                 |
 |   ◻️   |       Book      |            | [OCP Oracle Certified Professional Java SE 11 Developer]  | [Jeanne / Scott]        |
 |   ◻️   |  Certification  |            | [Oracle Certified Professional: Java SE 11 Developer]     | [Oracle]                |
+|   ◻️   |      Course     |            | [Spring Framework 5: Beginner to Guru]                    | [Udemy]                 |
+|   ◻️   |      Course     |            | [Spring & Hibernate for Beginners]                        | [Udemy]                 |
+|   ◻️   |      Course     |            | [Java Spring  Masterclass - Learn Spring Framework 5]     | [Udemy]                 |
+|   ◻️   |      Course     |            | [Spring and Spring Boot - Learn by building projects]     | [Udemy]                 |
+|   ◻️   |      Course     |            | [Testing Spring Boot: Beginner to Guru]                   | [Udemy]                 |
+|   ◻️   |      Course     |            | [Spring Core Advanced - Beyond the Basics]                | [Udemy]                 |
+|   ◻️   |      Course     |            | [Spring Security Core: Beginner to Guru]                  | [Udemy]                 |
+|   ◻️   |      Course     |            | [Spring Professional Certification Exam Tutorial]         | [Udemy]                 |
+|   ◻️   |      Book       |            | [Spring in Action, Fifth Edition]                         | [Craig Walls]           |
+|   ◻️   |      Book       |            | [Core Spring 5 Certification in Detail]                   | [Ivan Krizsan]          |
+|   ◻️   |      Book       |            | [Spring Framework Documentation]                          | [Spring]                |
+|   ◻️   |      Book       |            | [Pivotal Certified Professional Core Spring 5 Developer]  | [Iuliana Cosmina]       |
+|   ◻️   |  Certification  |            | [Spring Certified Professional]                           | [Spring]                |
 |   ◻️   |       Book      |            | [You Don't Know JS: Types & Grammar]                      | [Kyle Simpson]          |
 |   ◻️   |       Book      |            | [You Don't Know JS: Async & Performance]                  | [Kyle Simpson]          |
 |   ◻️   |       Book      |            | [You Don't Know JS: ES6 & Beyond]                         | [Kyle Simpson]          |
-|   ◻️   |      Course     |            | [Spring & Hibernate for Beginners]                        | [Udemy]                 |
-|   ◻️   |      Course     |            | [Spring Framework 5: Beginner to Guru]                    | [Udemy]                 |
-|   ◻️️   |                 |            |                                                           |                         |
+
+
+
 
 
 
@@ -131,6 +144,15 @@
 [Oracle Certified Professional: Java SE 11 Developer]: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 [Spring & Hibernate for Beginners]: https://www.udemy.com/course/spring-hibernate-tutorial/
 [Spring Framework 5: Beginner to Guru]: https://www.udemy.com/course/spring-framework-5-beginner-to-guru/
+[Spring Professional Certification Exam Tutorial]: https://www.udemy.com/course/spring-certified-tutorial/
+[Spring in Action, Fifth Edition]: https://www.manning.com/books/spring-in-action-fifth-edition
+[Core Spring 5 Certification in Detail]: https://leanpub.com/corespring5certificationindetail
+[Spring Framework Documentation]: https://docs.spring.io/spring-framework/docs/current/reference/html/index.html
+[Java Spring  Masterclass - Learn Spring Framework 5]: https://www.udemy.com/course/java-spring-framework-masterclass/
+[Spring and Spring Boot - Learn by building projects]: https://www.udemy.com/course/spring-and-spring-boot-learn-by-bulding-projects/
+[Testing Spring Boot: Beginner to Guru]: https://www.udemy.com/course/testing-spring-boot-beginner-to-guru/
+[Spring Security Core: Beginner to Guru]: https://www.udemy.com/course/spring-security-core-beginner-to-guru/
+[Spring Core Advanced - Beyond the Basics]: https://www.udemy.com/course/spring-core-advanced-beyond-the-basics/
 
 
 
@@ -156,6 +178,7 @@
 [Ibat College Dublin]: https://www.ibat.ie
 [Coursera]: https://www.coursera.org
 [Oracle]: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
+[Spring]: https://tanzu.vmware.com/training/certification/spring-professional-certification
 
 
 
