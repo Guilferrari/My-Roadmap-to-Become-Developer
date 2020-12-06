@@ -55,7 +55,6 @@
 |   ✔️   |      Course     | 14/06/2019 | [Reliable Cloud Infrastructure: Design and Process]       | [Coursera]              |
 |   ✔️   |      Course     | 14/06/2019 | [Architecting with Google Cloud Platform]                 | [Coursera]              |
 |   ◻️   |      Course     |            | [Java Programming Masterclass for Software Developers]    | [Udemy]                 |
-|   ◻️   |      Course     |            | [Java In-Depth: Become a Complete Java Engineer]          | [Udemy]                 |
 |   ◻️   |      Course     |            | [Java SE 11 Developer 1Z0-819 OCP Course - Part 1]        | [Udemy]                 |
 |   ◻️   |      Course     |            | [Java SE 11 Developer 1Z0-819 OCP Course - Part 2]        | [Udemy]                 |
 |   ◻️   |       Book      |            | [OCP Oracle Certified Professional Java SE 11 Developer]  | [Jeanne / Scott]        |
@@ -137,7 +136,6 @@
 [Architecting with Google Cloud Platform]: https://www.coursera.org/specializations/gcp-architecture
 
 [Java Programming Masterclass for Software Developers]: https://www.udemy.com/course/java-the-complete-java-developer-course/
-[Java In-Depth: Become a Complete Java Engineer]: https://www.udemy.com/course/java-in-depth-become-a-complete-java-engineer/
 [Java SE 11 Developer 1Z0-819 OCP Course - Part 1]: https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-1/
 [Java SE 11 Developer 1Z0-819 OCP Course - Part 2]: https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-2/
 [OCP Oracle Certified Professional Java SE 11 Developer]: https://www.amazon.com/gp/product/1119619130
