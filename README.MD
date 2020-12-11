@@ -55,6 +55,7 @@
 |   ✔️   |      Course     | 14/06/2019 | [Reliable Cloud Infrastructure: Design and Process]       | [Coursera]              |
 |   ✔️   |      Course     | 14/06/2019 | [Architecting with Google Cloud Platform]                 | [Coursera]              |
 |   ◻️   |      Course     |            | [Java Programming Masterclass for Software Developers]    | [Udemy]                 |
+|   ◻️   |      Course     |            | [Java Marathon]                                           | [DevDojo]               |
 |   ◻️   |      Course     |            | [Java SE 11 Developer 1Z0-819 OCP Course - Part 1]        | [Udemy]                 |
 |   ◻️   |      Course     |            | [Java SE 11 Developer 1Z0-819 OCP Course - Part 2]        | [Udemy]                 |
 |   ◻️   |       Book      |            | [OCP Oracle Certified Professional Java SE 11 Developer]  | [Jeanne / Scott]        |
@@ -153,6 +154,7 @@
 [Spring Core Advanced - Beyond the Basics]: https://www.udemy.com/course/spring-core-advanced-beyond-the-basics/
 [Pivotal Certified Professional Core Spring 5 Developer]: https://www.amazon.co.uk/Pivotal-Certified-Professional-Spring-Developer-ebook/dp/B082MCRCLM
 [Spring Certified Professional]: https://tanzu.vmware.com/training/certification/spring-professional-certification
+[Java Marathon]:https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL
 
 
 
@@ -179,6 +181,7 @@
 [Coursera]: https://www.coursera.org
 [Oracle]: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 [Spring]: https://tanzu.vmware.com/training/certification/spring-professional-certification
+[DevDojo]: 
 
 
 
