@@ -75,9 +75,18 @@
 |   ◻️   |      Book       |            | [Spring Framework Documentation]                          | [Spring]                |
 |   ◻️   |      Book       |            | [Pivotal Certified Professional Core Spring 5 Developer]  | [Iuliana Cosmina]       |
 |   ◻️   |  Certification  |            | [Spring Certified Professional]                           | [Spring]                |
-|   ◻️   |       Book      |            | [You Don't Know JS: Types & Grammar]                      | [Kyle Simpson]          |
-|   ◻️   |       Book      |            | [You Don't Know JS: Async & Performance]                  | [Kyle Simpson]          |
-|   ◻️   |       Book      |            | [You Don't Know JS: ES6 & Beyond]                         | [Kyle Simpson]          |
+|   ◻️   |  Certification  |            | [Foundation - Cloud Practioner]                           | [AWS]                   |
+|   ◻️   |  Certification  |            | [Associate - Developer]                                   | [AWS]                   |
+|   ◻️   |  Certification  |            | [Associate - SysOps Administrator]                        | [AWS]                   |
+|   ◻️   |  Certification  |            | [Associate - Solutions Architect]                         | [AWS]                   |
+|   ◻️   |  Certification  |            | [Professional - DevOps Engineer]                          | [AWS]                   |
+|   ◻️   |  Certification  |            | [Professional - Solutions Architect]                      | [AWS]                   |
+|   ◻️   |  Certification  |            | [Specialty - Security]                                    | [AWS]                   |
+|   ◻️   |  Certification  |            | [Specialty - Advanced Networking]                         | [AWS]                   |
+|   ◻️   |  Certification  |            | [CKAD - Certified Kubernetes Application Developer ]      | [Kubernetes]            |
+|   ◻️   |  Certification  |            | [DCA - Docker Certified Associate]                        | [Docker]                |
+
+
 
 
 
@@ -159,8 +168,16 @@
 [Java Marathon]:https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL
 [JSF Marathon]: https://www.youtube.com/watch?v=RD2mUPTjyog&list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J
 [Spring Boot Essentials 2]: https://www.youtube.com/watch?v=bCzsSXE4Jzg&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H
-
-
+[Foundation - Cloud Practioner]: https://aws.amazon.com/pt/certification/certified-cloud-practitioner/
+[Associate - Developer]: https://aws.amazon.com/pt/certification/certified-developer-associate/
+[Associate - SysOps Administrator]: https://aws.amazon.com/pt/certification/certified-sysops-admin-associate/
+[Associate - Solutions Architect]: https://aws.amazon.com/pt/certification/certified-solutions-architect-associate/
+[Professional - DevOps Engineer]: https://aws.amazon.com/pt/certification/certified-devops-engineer-professional/
+[Professional - Solutions Architect]: https://aws.amazon.com/pt/certification/certified-solutions-architect-professional/
+[Specialty - Security]: https://aws.amazon.com/pt/certification/certified-security-specialty/
+[Specialty - Advanced Networking]: https://aws.amazon.com/pt/certification/certified-advanced-networking-specialty/
+[CKAD - Certified Kubernetes Application Developer]: https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
+[DCA - Docker Certified Associate]: https://www.docker.com/
 
 [//]: # (Reference Tutor)
 
@@ -186,7 +203,9 @@
 [Oracle]: https://education.oracle.com/oracle-certified-professional-java-se-11-developer/trackp_OCPJAV11
 [Spring]: https://tanzu.vmware.com/training/certification/spring-professional-certification
 [DevDojo]: https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g
-
+[AWS]: https://aws.amazon.com/pt/certification/
+[Kubernetes]: https://kubernetes.io/
+[Docker]: https://www.docker.com/
 
 
 
