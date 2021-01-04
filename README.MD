@@ -84,7 +84,8 @@
 |   ◻️   |  Certification  |            | [Specialty - Security]                                    | [AWS]                   |
 |   ◻️   |  Certification  |            | [Specialty - Advanced Networking]                         | [AWS]                   |
 |   ◻️   |  Certification  |            | [CKAD - Certified Kubernetes Application Developer ]      | [Kubernetes]            |
-|   ◻️   |  Certification  |            | [DCA - Docker Certified Associate]                        | [Docker]                |
+|   ◻️   |  Certification  |            | [CKA - Certified Kubernetes Administrator]                | [Kubernetes]            |
+|   ◻️   |  Certification  |            | [CKS - Certified Kubernetes Security Specialist]          | [Kubernetes]            |
 
 
 
@@ -177,8 +178,8 @@
 [Specialty - Security]: https://aws.amazon.com/pt/certification/certified-security-specialty/
 [Specialty - Advanced Networking]: https://aws.amazon.com/pt/certification/certified-advanced-networking-specialty/
 [CKAD - Certified Kubernetes Application Developer]: https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
-[DCA - Docker Certified Associate]: https://www.docker.com/
-
+[CKA - Certified Kubernetes Administrator]: https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+[CKS - Certified Kubernetes Security Specialist]: https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/
 [//]: # (Reference Tutor)
 
 [4Linux]: https://www.4linux.com.br
@@ -205,7 +206,7 @@
 [DevDojo]: https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g
 [AWS]: https://aws.amazon.com/pt/certification/
 [Kubernetes]: https://kubernetes.io/
-[Docker]: https://www.docker.com/
+
 
 
 
