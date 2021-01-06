@@ -54,9 +54,9 @@
 |   ✔️   |      Course     | 08/06/2019 | [Elastic Cloud Infrastructure: Containers and Services]   | [Coursera]              |
 |   ✔️   |      Course     | 14/06/2019 | [Reliable Cloud Infrastructure: Design and Process]       | [Coursera]              |
 |   ✔️   |      Course     | 14/06/2019 | [Architecting with Google Cloud Platform]                 | [Coursera]              |
+|   ◻️   |      Course     |            | [AWS - Certified Cloud Practitioner Course]               | [Udemy]                 |
 |   ◻️   |      Course     |            | [Java Programming Masterclass for Software Developers]    | [Udemy]                 |
 |   ◻️   |      Course     |            | [Java Marathon]                                           | [DevDojo]               |
-|   ◻️   |      Course     |            | [JSF Marathon]                                            | [DevDojo]               |
 |   ◻️   |      Course     |            | [Spring Boot Essentials 2]                                | [DevDojo]               |
 |   ◻️   |      Course     |            | [Java SE 11 Developer 1Z0-819 OCP Course - Part 1]        | [Udemy]                 |
 |   ◻️   |      Course     |            | [Java SE 11 Developer 1Z0-819 OCP Course - Part 2]        | [Udemy]                 |
@@ -167,7 +167,7 @@
 [Pivotal Certified Professional Core Spring 5 Developer]: https://www.amazon.co.uk/Pivotal-Certified-Professional-Spring-Developer-ebook/dp/B082MCRCLM
 [Spring Certified Professional]: https://tanzu.vmware.com/training/certification/spring-professional-certification
 [Java Marathon]:https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL
-[JSF Marathon]: https://www.youtube.com/watch?v=RD2mUPTjyog&list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J
+[AWS - Certified Cloud Practitioner Course]: https://www.udemy.com/course/aws-certified-cloud-practitioner-new
 [Spring Boot Essentials 2]: https://www.youtube.com/watch?v=bCzsSXE4Jzg&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H
 [Foundation - Cloud Practioner]: https://aws.amazon.com/pt/certification/certified-cloud-practitioner/
 [Associate - Developer]: https://aws.amazon.com/pt/certification/certified-developer-associate/
