@@ -54,7 +54,7 @@
 |   ✔️   |      Course     | 08/06/2019 | [Elastic Cloud Infrastructure: Containers and Services]   | [Coursera]              |
 |   ✔️   |      Course     | 14/06/2019 | [Reliable Cloud Infrastructure: Design and Process]       | [Coursera]              |
 |   ✔️   |      Course     | 14/06/2019 | [Architecting with Google Cloud Platform]                 | [Coursera]              |
-|   ◻️   |      Course     |            | [AWS - Certified Cloud Practitioner Course]               | [Udemy]                 |
+|   ✔   |      Course     | 07/01/2021 | [AWS - Certified Cloud Practitioner Course]               | [Udemy]                 |
 |   ◻️   |      Course     |            | [Java Programming Masterclass for Software Developers]    | [Udemy]                 |
 |   ◻️   |      Course     |            | [Java Marathon]                                           | [DevDojo]               |
 |   ◻️   |      Course     |            | [Spring Boot Essentials 2]                                | [DevDojo]               |
