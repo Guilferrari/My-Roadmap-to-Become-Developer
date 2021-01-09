@@ -55,6 +55,7 @@
 |   ✔️   |      Course     | 14/06/2019 | [Reliable Cloud Infrastructure: Design and Process]       | [Coursera]              |
 |   ✔️   |      Course     | 14/06/2019 | [Architecting with Google Cloud Platform]                 | [Coursera]              |
 |   ✔   |      Course     | 07/01/2021 | [AWS - Certified Cloud Practitioner Course]               | [Udemy]                 |
+|   ✔   |  Certification  | 09/01/2021 | [Foundation - Cloud Practioner]                           | [AWS]                   |
 |   ◻️   |      Course     |            | [Java Programming Masterclass for Software Developers]    | [Udemy]                 |
 |   ◻️   |      Course     |            | [Java Marathon]                                           | [DevDojo]               |
 |   ◻️   |      Course     |            | [Spring Boot Essentials 2]                                | [DevDojo]               |
@@ -75,7 +76,6 @@
 |   ◻️   |      Book       |            | [Spring Framework Documentation]                          | [Spring]                |
 |   ◻️   |      Book       |            | [Pivotal Certified Professional Core Spring 5 Developer]  | [Iuliana Cosmina]       |
 |   ◻️   |  Certification  |            | [Spring Certified Professional]                           | [Spring]                |
-|   ◻️   |  Certification  |            | [Foundation - Cloud Practioner]                           | [AWS]                   |
 |   ◻️   |  Certification  |            | [Associate - Developer]                                   | [AWS]                   |
 |   ◻️   |  Certification  |            | [Associate - SysOps Administrator]                        | [AWS]                   |
 |   ◻️   |  Certification  |            | [Associate - Solutions Architect]                         | [AWS]                   |
