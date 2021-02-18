@@ -54,38 +54,39 @@
 |   ✔️   |      Course     | 08/06/2019 | [Elastic Cloud Infrastructure: Containers and Services]   | [Coursera]              |
 |   ✔️   |      Course     | 14/06/2019 | [Reliable Cloud Infrastructure: Design and Process]       | [Coursera]              |
 |   ✔️   |      Course     | 14/06/2019 | [Architecting with Google Cloud Platform]                 | [Coursera]              |
-|   ✔   |      Course     | 07/01/2021 | [AWS - Certified Cloud Practitioner Course]               | [Udemy]                 |
-|   ✔   |  Certification  | 09/01/2021 | [Foundation - Cloud Practioner]                           | [AWS]                   |
-|   ◻️   |      Course     |            | [Java Programming Masterclass for Software Developers]    | [Udemy]                 |
-|   ◻️   |      Course     |            | [Java Marathon]                                           | [DevDojo]               |
-|   ◻️   |      Course     |            | [Spring Boot Essentials 2]                                | [DevDojo]               |
-|   ◻️   |      Course     |            | [Java SE 11 Developer 1Z0-819 OCP Course - Part 1]        | [Udemy]                 |
-|   ◻️   |      Course     |            | [Java SE 11 Developer 1Z0-819 OCP Course - Part 2]        | [Udemy]                 |
-|   ◻️   |       Book      |            | [OCP Oracle Certified Professional Java SE 11 Developer]  | [Jeanne / Scott]        |
-|   ◻️   |  Certification  |            | [Oracle Certified Professional: Java SE 11 Developer]     | [Oracle]                |
-|   ◻️   |      Course     |            | [Spring Framework 5: Beginner to Guru]                    | [Udemy]                 |
-|   ◻️   |      Course     |            | [Spring & Hibernate for Beginners]                        | [Udemy]                 |
-|   ◻️   |      Course     |            | [Java Spring  Masterclass - Learn Spring Framework 5]     | [Udemy]                 |
-|   ◻️   |      Course     |            | [Spring and Spring Boot - Learn by building projects]     | [Udemy]                 |
-|   ◻️   |      Course     |            | [Testing Spring Boot: Beginner to Guru]                   | [Udemy]                 |
-|   ◻️   |      Course     |            | [Spring Core Advanced - Beyond the Basics]                | [Udemy]                 |
-|   ◻️   |      Course     |            | [Spring Security Core: Beginner to Guru]                  | [Udemy]                 |
-|   ◻️   |      Course     |            | [Spring Professional Certification Exam Tutorial]         | [Udemy]                 |
-|   ◻️   |      Book       |            | [Spring in Action, Fifth Edition]                         | [Craig Walls]           |
-|   ◻️   |      Book       |            | [Core Spring 5 Certification in Detail]                   | [Ivan Krizsan]          |
-|   ◻️   |      Book       |            | [Spring Framework Documentation]                          | [Spring]                |
-|   ◻️   |      Book       |            | [Pivotal Certified Professional Core Spring 5 Developer]  | [Iuliana Cosmina]       |
-|   ◻️   |  Certification  |            | [Spring Certified Professional]                           | [Spring]                |
-|   ◻️   |  Certification  |            | [Associate - Developer]                                   | [AWS]                   |
-|   ◻️   |  Certification  |            | [Associate - SysOps Administrator]                        | [AWS]                   |
-|   ◻️   |  Certification  |            | [Associate - Solutions Architect]                         | [AWS]                   |
-|   ◻️   |  Certification  |            | [Professional - DevOps Engineer]                          | [AWS]                   |
-|   ◻️   |  Certification  |            | [Professional - Solutions Architect]                      | [AWS]                   |
-|   ◻️   |  Certification  |            | [Specialty - Security]                                    | [AWS]                   |
-|   ◻️   |  Certification  |            | [Specialty - Advanced Networking]                         | [AWS]                   |
-|   ◻️   |  Certification  |            | [CKAD - Certified Kubernetes Application Developer ]      | [Kubernetes]            |
-|   ◻️   |  Certification  |            | [CKA - Certified Kubernetes Administrator]                | [Kubernetes]            |
-|   ◻️   |  Certification  |            | [CKS - Certified Kubernetes Security Specialist]          | [Kubernetes]            |
+|   ✔️   |      Course     | 07/01/2021 | [AWS - Certified Cloud Practitioner Course]               | [Udemy]                 |
+|   ✔️   |  Certification  | 09/01/2021 | [Foundation - Cloud Practioner]                           | [AWS]                   |
+|   ✔️   |      Course     | 11/02/2021 | [AWS Alexa Skill Builder Specialty]                       | [Udemy]                 |
+|   ◻️    |      Course     |            | [Java Programming Masterclass for Software Developers]    | [Udemy]                 |
+|   ◻️    |      Course     |            | [Java Marathon]                                           | [DevDojo]               |
+|   ◻️    |      Course     |            | [Spring Boot Essentials 2]                                | [DevDojo]               |
+|   ◻️    |      Course     |            | [Java SE 11 Developer 1Z0-819 OCP Course - Part 1]        | [Udemy]                 |
+|   ◻️    |      Course     |            | [Java SE 11 Developer 1Z0-819 OCP Course - Part 2]        | [Udemy]                 |
+|   ◻️    |       Book      |            | [OCP Oracle Certified Professional Java SE 11 Developer]  | [Jeanne / Scott]        |
+|   ◻️    |  Certification  |            | [Oracle Certified Professional: Java SE 11 Developer]     | [Oracle]                |
+|   ◻️    |      Course     |            | [Spring Framework 5: Beginner to Guru]                    | [Udemy]                 |
+|   ◻️    |      Course     |            | [Spring & Hibernate for Beginners]                        | [Udemy]                 |
+|   ◻️    |      Course     |            | [Java Spring  Masterclass - Learn Spring Framework 5]     | [Udemy]                 |
+|   ◻️    |      Course     |            | [Spring and Spring Boot - Learn by building projects]     | [Udemy]                 |
+|   ◻️    |      Course     |            | [Testing Spring Boot: Beginner to Guru]                   | [Udemy]                 |
+|   ◻️    |      Course     |            | [Spring Core Advanced - Beyond the Basics]                | [Udemy]                 |
+|   ◻️    |      Course     |            | [Spring Security Core: Beginner to Guru]                  | [Udemy]                 |
+|   ◻️    |      Course     |            | [Spring Professional Certification Exam Tutorial]         | [Udemy]                 |
+|   ◻️    |      Book       |            | [Spring in Action, Fifth Edition]                         | [Craig Walls]           |
+|   ◻️    |      Book       |            | [Core Spring 5 Certification in Detail]                   | [Ivan Krizsan]          |
+|   ◻️    |      Book       |            | [Spring Framework Documentation]                          | [Spring]                |
+|   ◻️    |      Book       |            | [Pivotal Certified Professional Core Spring 5 Developer]  | [Iuliana Cosmina]       |
+|   ◻️    |  Certification  |            | [Spring Certified Professional]                           | [Spring]                |
+|   ◻️    |  Certification  |            | [Associate - Developer]                                   | [AWS]                   |
+|   ◻️    |  Certification  |            | [Associate - SysOps Administrator]                        | [AWS]                   |
+|   ◻️    |  Certification  |            | [Associate - Solutions Architect]                         | [AWS]                   |
+|   ◻️    |  Certification  |            | [Professional - DevOps Engineer]                          | [AWS]                   |
+|   ◻️    |  Certification  |            | [Professional - Solutions Architect]                      | [AWS]                   |
+|   ◻️    |  Certification  |            | [Specialty - Security]                                    | [AWS]                   |
+|   ◻️    |  Certification  |            | [Specialty - Advanced Networking]                         | [AWS]                   |
+|   ◻️    |  Certification  |            | [CKAD - Certified Kubernetes Application Developer ]      | [Kubernetes]            |
+|   ◻️    |  Certification  |            | [CKA - Certified Kubernetes Administrator]                | [Kubernetes]            |
+|   ◻️    |  Certification  |            | [CKS - Certified Kubernetes Security Specialist]          | [Kubernetes]            |
 
 
 
@@ -180,6 +181,7 @@
 [CKAD - Certified Kubernetes Application Developer]: https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/
 [CKA - Certified Kubernetes Administrator]: https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
 [CKS - Certified Kubernetes Security Specialist]: https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/
+[AWS Alexa Skill Builder Specialty]: https://www.udemy.com/course/ultimate-aws-certified-alexa-skill-builder-specialty/
 [//]: # (Reference Tutor)
 
 [4Linux]: https://www.4linux.com.br
